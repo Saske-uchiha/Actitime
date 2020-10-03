@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="166445" started-at="2020-10-02T06:09:13Z" finished-at="2020-10-02T06:11:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="166445" started-at="2020-10-02T06:09:13Z" finished-at="2020-10-02T06:11:59Z">
+      <class name="com.scripts.actitime.TestActitime">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.scripts.actitime.TestActitime@72d818d1]" name="openBrowser" is-config="true" duration-ms="117608" started-at="2020-10-02T06:09:13Z" finished-at="2020-10-02T06:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.scripts.actitime.TestActitime@72d818d1]" name="login" duration-ms="39112" started-at="2020-10-02T06:11:11Z" finished-at="2020-10-02T06:11:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.scripts.actitime.TestActitime@72d818d1]" name="closeBrowser" is-config="true" duration-ms="9476" started-at="2020-10-02T06:11:50Z" finished-at="2020-10-02T06:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.scripts.actitime.TestActitime -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
